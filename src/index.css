@@ -1,0 +1,14 @@
+:root {
+  color-scheme: dark;
+}
+
+html, body, #root {
+  width: 100%;
+  min-width: 360px;
+  min-height: 100%;
+  margin: 0;
+}
+
+button, textarea {
+  font-family: inherit;
+}
